@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="600.0" maxWidth="600.0" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TitledPane contentDisplay="TOP" prefHeight="0.0" prefWidth="598.0" text="Painel de Gerente &gt; Entrada" />
+      <Button layoutX="189.0" layoutY="161.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="247.0" text="Gerenciar colaboradores" />
+      <Button layoutX="189.0" layoutY="200.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="247.0" text="Pontuar colaboradores" />
+      <Label layoutX="225.0" layoutY="62.0" prefHeight="25.0" prefWidth="104.0" text="Bem-vindo, " />
+      <Label layoutX="304.0" layoutY="62.0" prefHeight="25.0" prefWidth="104.0" text="\$gerente_name">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="240.0" layoutY="127.0" prefHeight="25.0" prefWidth="178.0" text="Escolha uma opção abaixo:" />
+   </children>
+</AnchorPane>
