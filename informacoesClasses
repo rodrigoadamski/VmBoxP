@@ -1,0 +1,37 @@
+TELAS
+No git aqui tem uma pasta com todo o directório do projeto 
+
+Galera,
+O que importa ali são os fxml do pacote view.
+
+Criei 5 telas:
+#login
+#entrada painel gerente
+#adicionar e visualizar colaboradores
+#pontuar colaborador
+#painel colaborador (saldo atual e extrato)
+
+Criei uma main em controller, mas creio que ela tem que ficar no mesmo pacote das views.
+Fiz tudo de acordo com esse tutorial: http://code.makery.ch/library/javafx-8-tutorial/pt/
+Guiem-se por ele, tem tudo bem explicado, principalmente o que diz respeito as IDs que é como vão fazer as manipulações nos botões e entradas
+
+
+TELAS PARA VISUALIZAREM
+http://ecoerecife.com.br/addcol.png
+http://ecoerecife.com.br/login.png
+http://ecoerecife.com.br/consultapontos.png
+http://ecoerecife.com.br/gerenteEntrada.png
+http://ecoerecife.com.br/gerentePontua.png
+
+
+UML - CLASSES
+Fiz um bem básico ALTEREM o que acharem necessário, corrijam as classes e retornos.
+https://mega.nz/#!YBAzXL7Q!8xTVg1_jtX5H8ftyoGoXEIN5-Z972PSBDF5FyaiSMBc
+
+
+
+
+
+
+
+
